@@ -1,7 +1,9 @@
 # 🤖 SHIKSHA Robot
 
 <p align="center">
-  <img src="images/overview.jpg" alt="SHIKSHA Robot Overview" width="80%">
+  <img src="images/overview.jpg" alt="SHIKSHA Robot Overview" width="85%">
+  <br>
+  <em>Figure 1: SHIKSHA Robot Overview</em>
 </p>
 
 An interactive **AI-driven educational robot** designed to make classroom learning more engaging and accessible.  
@@ -24,7 +26,9 @@ The project integrates **embedded systems**, **AI control**, and **human-robot i
 ## ⚙️ System Architecture
 
 <p align="center">
-  <img src="images/working.jpg" alt="System Architecture" width="80%">
+  <img src="images/working.jpg" alt="System Architecture" width="85%">
+  <br>
+  <em>Figure 2: System Architecture of SHIKSHA Robot</em>
 </p>
 
 ### 🧩 AI Version
@@ -44,7 +48,9 @@ The project integrates **embedded systems**, **AI control**, and **human-robot i
 ## 🧮 Chart Mode
 
 <p align="center">
-  <img src="images/chartmode.jpg" alt="Chart Mode Working" width="80%">
+  <img src="images/chartmode.jpg" alt="Chart Mode Working" width="85%">
+  <br>
+  <em>Figure 3: Chart Mode and Low-Cost Chart Identification</em>
 </p>
 
 A **low-cost chart identification system** was developed using the **TCS34725 color sensor**, replacing expensive barcode scanning.  
@@ -69,3 +75,7 @@ A **low-cost chart identification system** was developed using the **TCS34725 co
 The system successfully delivers an **interactive, scalable, and cost-effective** platform for classrooms — turning traditional learning into an engaging, hands-on experience.
 
 ---
+
+<p align="center">
+  <em>Designed and Developed with passion for Smart Education 💡</em>
+</p>
